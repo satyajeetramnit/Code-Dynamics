@@ -33,13 +33,18 @@ Code database for Code Dynamics website
 ┣ 30 Days of Code <br>
 ┃ ┣ C++ <br>
 ┃ ┣ Java <br>
+┃ ┣ Julia <br>
 ┃ ┣ Kotlin <br>
 ┃ ┣ Php <br>
-┃ ┗ Python <br>
+┃ ┣ Python <br>
+┃ ┣ Scala <br>
+┃ ┗ TypeScript <br>
 ┣ Python <br>
 ┃ ┣ 01 - Introduction <br>
 ┃ ┣ 02 - Basic Data Types <br>
-┃ ┗ 04 - Sets <br>
+┃ ┣ 03 - Strings <br>
+┃ ┣ 04 - Sets <br>
+┃ ┗ 05 - Math <br>
 ┗ SQL <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┣ 01 - Basic Select <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┣ 02 - Advanced Select <br>
